@@ -43,6 +43,7 @@ void taskInfo(timeUs_t currentTimeUs){
 }
 
 void taskBlink(timeUs_t currentTimeUs){
+  scheduler.Logln("Blink %d second",1);
   digitalWrite(LED_BUILTIN,!digitalRead(LED_BUILTIN));
 }
 
