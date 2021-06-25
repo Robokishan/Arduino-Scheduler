@@ -3,7 +3,7 @@
 This library allows an Arduino board to run tasks at specific frequency.
 
 For more information about this library please visit us at
-https://github.com/Robokishan/Arduino-Scheduler
+https://github.com/Robokishan/Taskrunner
 
 Project is inspired from scheduler of [betaflight](https://github.com/betaflight/betaflight) 
 
