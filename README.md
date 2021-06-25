@@ -1,6 +1,6 @@
 = Scheduler library for Arduino =
 
-This library allows an Arduino board to run tasks at spceific frequency.
+This library allows an Arduino board to run tasks at specific frequency.
 
 For more information about this library please visit us at
 https://github.com/Robokishan/Arduino-Scheduler
